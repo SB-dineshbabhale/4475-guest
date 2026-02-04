@@ -1,0 +1,9 @@
+title: GuestModel
+x-stoplight:
+  id: mad584ox89kkp
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: c8zatrlftolam
