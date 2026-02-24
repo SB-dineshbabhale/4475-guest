@@ -65,7 +65,9 @@ paths:
           description: User Not Found
         '409':
           description: Email Already Taken
-      description: Update the information of an existing user.
+      description: |-
+        Update the information of an existing user.
+        [File2](reference/test-API.yaml/paths/~1users~1{userId}/get)
       requestBody:
         content:
           application/json:
